@@ -1,0 +1,3 @@
+El mástil de arriba es el mástil del usuario, el de abajo muestra las notas en la afinación deseada.
+
+El proyecto fue una respuesta a mi necesidad de tocar canciones de Sonic Youth. Le dí mucho uso y jamás me faltó algo.

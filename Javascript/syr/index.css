@@ -1,0 +1,146 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffe5a5;
+    padding: 20px;
+    gap: 20px;
+    justify-content: space-evenly;
+    color: #444
+}
+
+.above,
+.down {
+    display: flex;
+    gap: 20px
+}
+
+.otherButtons {
+    display: flex;
+    gap: 6px;
+}
+
+.tuneOneColumn {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 6px;
+}
+
+.tuneDownOne,
+.tuneUpOne {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 30px;
+    width: 30px;
+    border: 2px solid #444;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.tuneDownOne:hover,
+.tuneUpOne:hover {
+    background-color: #d7b55f;
+}
+
+.tuneDownAll,
+.tuneUpAll {
+    border: 2px solid #444;
+    width: 30px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.tuneDownAll:hover,
+.tuneUpAll:hover,
+.tuneDownOne:hover,
+.tuneUpOne:hover {
+    background-color: #d7b55f;
+}
+
+.notes {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 6px;
+}
+
+.note {
+    width: 60px;
+    height: 30px;
+    border: 2px solid #444;
+    background-color: #fafafa;
+    box-shadow: inset 1px 1px 3px #777;
+    border-radius: 6px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+select {
+    text-align: center;
+    height: 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    border: 2px solid #444;
+    border-radius: 6px;
+    background-color: #ffe5a5;
+    color: #222
+}
+
+select:hover {
+    background-color: #d7b55f;
+    color: #fafafa;
+}
+
+.fretboard {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.marker
+
+/*made on js*/
+    {
+    display: flex;
+    gap: 6px;
+}
+
+.mark
+
+/*made on js*/
+    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 38px;
+    font-size: 15px;
+}
+
+.string
+
+/*made on js*/
+    {
+    display: flex;
+    gap: 6px;
+}
+
+.fret
+
+/*made on js*/
+    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 34px;
+    border: 2px solid #222;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.colmo {
+    background-color: violet;
+}

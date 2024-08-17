@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link rel="icon" href="ame.png">-->
+    <link rel="stylesheet" href="index2.css">
+    <link rel="stylesheet" href="index3.css">
+    <script src="index2.js" defer></script>
+    <title>yr tabs</title>
+</head>
+
+<body>
+    <div class="baf"> <!--baf = buttons and fret-->
+        <div class="buttons">
+            <div class="singleDown">
+                <div onclick='tuneOneLower(1,"u")'>←</div>
+                <div onclick='tuneOneLower(2,"u")'>←</div>
+                <div onclick='tuneOneLower(3,"u")'>←</div>
+                <div onclick='tuneOneLower(4,"u")'>←</div>
+                <div onclick='tuneOneLower(5,"u")'>←</div>
+                <div onclick='tuneOneLower(6,"u")'>←</div>
+                <!--six buttons-->
+            </div>
+            <div class="allDown">←</div>
+            <div class="notes">
+                <div id="1u"></div>
+                <div id="2u"></div>
+                <div id="3u"></div>
+                <div id="4u"></div>
+                <div id="5u"></div>
+                <div id="6u"></div>
+            </div>
+            <div class="allUp">→</div>
+            <div class="singleUp">
+                <div onclick='tuneOneHigher(1,"u")'>→</div>
+                <div onclick='tuneOneHigher(2,"u")'>→</div>
+                <div onclick='tuneOneHigher(3,"u")'>→</div>
+                <div onclick='tuneOneHigher(4,"u")'>→</div>
+                <div onclick='tuneOneHigher(5,"u")'>→</div>
+                <div onclick='tuneOneHigher(6,"u")'>→</div>
+            </div>
+        </div>
+        <div class="fretboard" id="fretUp"></div>
+    </div>
+    <div class="baf"> <!--baf = buttons and fret-->
+        <div class="buttons">
+            <div class="singleDown">
+                <div onclick='tuneOneLower(1,"d")'>←</div>
+                <div onclick='tuneOneLower(2,"d")'>←</div>
+                <div onclick='tuneOneLower(3,"d")'>←</div>
+                <div onclick='tuneOneLower(4,"d")'>←</div>
+                <div onclick='tuneOneLower(5,"d")'>←</div>
+                <div onclick='tuneOneLower(6,"d")'>←</div>
+            </div>
+            <div class="allDown">←</div>
+            <div class="notes">
+                <div id="1d"></div>
+                <div id="2d"></div>
+                <div id="3d"></div>
+                <div id="4d"></div>
+                <div id="5d"></div>
+                <div id="6d"></div>
+            </div>
+            <div class="allUp">→</div>
+            <div class="singleUp">
+                <div onclick='tuneOneHigher(1,"d")'>→</div>
+                <div onclick='tuneOneHigher(2,"d")'>→</div>
+                <div onclick='tuneOneHigher(3,"d")'>→</div>
+                <div onclick='tuneOneHigher(4,"d")'>→</div>
+                <div onclick='tuneOneHigher(5,"d")'>→</div>
+                <div onclick='tuneOneHigher(6,"d")'>→</div>
+            </div>
+        </div>
+        <div class="fretboard" id="fretDown"></div>
+    </div>
+</body>
+
+</html>

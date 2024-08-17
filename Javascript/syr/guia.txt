@@ -1,0 +1,6 @@
+1) Entrar a Visual Studio Code
+2) CLiquear File -> Open folder
+3) Seleccionar la carpeta de este proyecto
+4) Abrir index.html con Live Server (Ritwick Dey)
+
+Al usar dos CSS y acceder a uno con Javascript se crea un error de seguridad y la única forma de solucionarlo es usando Live Server.

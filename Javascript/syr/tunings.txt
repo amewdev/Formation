@@ -1,0 +1,190 @@
+<select id="buttonsAbove">
+                <option>Standard</option> <!--E2 A2 D3 G3 B3 e4-->
+                <option>AAAABD</option> <!--A2 A2 A3 A3 B3 D4-->
+                <option>AAEEF#A</option> <!--A2 A2 E3 E3 F#3 A3-->
+                <option>AAEEAA</option> <!--A2 A2 E3 E3 A3 A3-->
+                <option>ACCGG#C</option> <!--A2 C3 C3 G3 G#3 C4-->
+                <option>AF#EF#EB</option> <!--A2 F#2 E3 F#3 E3 B3-->
+                <option>BEGDBB</option> <!--B1 E2 G2 D3 B2 B2-->
+                <option>BF#BBBF#</option> <!--B1 F#2 B2 B2 B3 F#3-->
+                <option>BBEEAA</option> <!--B2 B2 E3 E3 A3 A3-->
+                <option>BBxxF#F#</option> <!--B2 B2 x x F#2 F#2-->
+                <option>CCGDGD</option> <!--C2 C2 G2 D3 G3 D4-->
+                <option>CDGADG</option> <!--C2 D2 G2 A3 D4 G4-->
+                <option>CGGDDD</option> <!--C2 G2 G2 D3 D3 D3-->
+                <option>CGCCCG</option> <!--C2 G2 C3 C3 C4 G3-->
+                
+                <option>CGDCGD</option> <!--C2 G2 D3 C3 G3 D4-->
+                <option>CGDGBB</option> <!--C2 G2 D3 G3 B3 B3-->
+                <option>CGDGCD</option> <!--C2 G2 D3 G3 C4 D4-->
+                <option>CGDACD</option> <!--C2 B2 D3 A3 C4 D4-->
+                <option>CCxxD#D#</option> <!--C3 C3 x x D#3 D#3-->
+                <option>CCD#GGD</option> <!--C3 C3 D#3 G3 G3 D4-->
+                <option>CCEBGD</option> <!--C3 C3 E3 B3 G3 D4-->
+                <option>DDAEAD</option> <!--D2 D2 A2 F#3 A3 D4-->
+                <option>BBEEAA</option> <!--B2 B2 E3 E3 A3 A3-->
+                <option>DDAF#AD</option> <!--D2 D2 A2 F#3 A3 D4-->
+                <option>DDDDEA</option> <!--D2 D2 D3 D3 E3 A3-->
+                <option>DDDDAA</option> <!--D2 D2 D3 D3 A3 A3-->
+                <option>DD#A#D#GG</option> <!--D2 D#2 A#2 D#3 G3 G3-->
+                <option>DD#A#D#GC</option> <!--D2 D#2 A#2 D#3 G3 C4-->
+
+                <option>DFCDFF</option> <!--D2 F2 C3 D3 F3 F3-->
+                <option>DGDDBB</option> <!--D2 G2 D3 D3 B2 B2-->
+                <option>DAADDA</option> <!--D2 A2 A3 D4 D3 A3-->
+                <option>DADF#AD</option> <!--D2 A2 D3 F#3 A3 D4-->
+                <option>DADGGB</option> <!--D2 A2 D3 G3 G3 B3-->
+                <option>DADGBD</option> <!--D2 A2 D3 G3 B3 D4-->
+                <option>DADABB</option> <!--D2 A2 D3 A3 B3 B3-->
+                <option>DADABD</option> <!--D2 A2 D3 A3 B3 D4-->
+                <option>DA#DFCA#</option> <!--D2 A#2 D3 F3 C4 A#3-->
+                <option>D#D#AAEE</option> <!--D#2 D#2 A2 A2 E3 E3-->
+                <option>D#D#A#D#GG</option> <!--D#2 D#2 A#2 D#3 G3 G3-->
+                <option>D#D#C#C#GG</option> <!--D#2 D#2 C#3 C#3 G3 G3-->
+                <option>D#A#DFA#C</option> <!--D#2 A#2 D3 F3 A#3 C4-->
+                <option>D#A#D#BC#F#</option> <!--D#2 A#2 D#3 B2 C#4 F#3-->
+
+                <option>EEBBEF#</option> <!--E2 E2 B2 B2 E3 F#3-->
+                <option>EEBBF#F#</option> <!--E2 E2 B2 B2 F#3 F#3-->
+                <option>EEBEBB</option> <!--E2 E2 B2 E3 B3 B3-->
+                <option>EEEEF#F#</option> <!--E2 E2 E3 E3 F#3 F#3-->
+                <option>EEEEG#G#</option> <!--E2 E2 E3 E3 G#3 G#3-->
+                <option>EEBEG#B</option> <!--E2 E2 B2 E3 B3 B3-->
+                <option>EEBEBE</option> <!--E2 E2 B2 E3 B3 E4-->
+                <option>EEBF#BE</option> <!--E2 E2 B2 F#3 B3 E4-->
+                <option>EF#C#F#A#C#</option> <!--E2 F#2 C#3 F#3 A#3 C#4-->
+                <option>EGDDGG</option> <!--E2 G2 D3 D3 G3 G3-->
+                <option>EGDGED</option> <!--E2 G2 D# G3 E3 D4-->
+                <option>EG#EG#EG#</option> <!--E2 G#2 E3 G#3 E3 G#3-->
+                <option>EADECD</option> <!--E2 A2 D3 E3 C4 D4-->
+                
+                <option>EBDGBE</option> <!--E2 B2 D3 G3 B3 e4-->
+                <option>EBEEAA</option> <!--E2 B2 E3 E3 A3 A3-->
+                <option>EBEEAB</option> <!--E2 B2 E3 E3 A3 B3-->
+                <option>EBEGGB</option> <!--E2 B2 G3 G3 G3 B3-->
+                <option>FGCFAF#</option> <!--F1 G1 C3 F3 A3 F#3-->
+                <option>FFCCAA</option> <!--F2 F2 C3 C3 A3 A3-->
+                <option>FFCFFG#</option> <!--F2 F2 C3 F3 F3 G#3-->
+                <option>FFCGCC</option> <!--F2 F2 C3 G2 C4 C4-->
+                <option>FFD#FA#C</option> <!--F2 F2 D#3 F3 A#3 C4-->
+                <option>F#F#F#F#EB</option> <!--F#2 F#2 F#3 F#3 E3 B3-->
+                <option>F#F#GGAA</option> <!--F#2 F#2 G3 G3 A3 A3-->
+                <option>F#F#AAEE</option> <!--F#2 F#2 A2 A2 E3 E3-->
+                <option>F#F#C#F#A#C#</option> <!--F#2 F#2 C#3 F#3 A#3 C#4-->
+                <option>F#F#C#C#C#C#</option> <!--F#2 F#2 C#3 C#3 C#4 C#4-->
+
+                <option>F#AAF#F#F#</option> <!--F#2 A2 A2 F#3 F#3 F#3-->
+                <option>GGBDGA</option> <!--G2 G2 B2 D3 G3 A3-->
+                <option>GGCCA#A#</option> <!--G2 G2 C3 C3 A#3 A#3-->
+                <option>GGCGCC</option> <!--G2 G2 C3 G3 C4 C4-->
+                <option>GGCGCD</option> <!--G2 G2 C3 G3 C4 D4-->
+                <option>GGC#DGG</option> <!--G2 G2 C#3 D3 G3 G3-->
+                <option>GGDDD#D#</option> <!--G2 G2 D3 D3 D#3 D#3-->
+                <option>GGDDFF</option> <!--G2 G2 D3 D3 F3 F3-->
+                <option>GGDDGG</option> <!--G2 G2 D3 D3 G3 G3-->
+                <option>GGDEGB</option> <!--G2 G2 D3 E3 G3 B3-->
+                <option>GGDFFG</option> <!--G2 G2 D3 F3 F3 G3-->
+                <option>GGDGGA</option> <!--G2 G2 D3 G3 G3 A3-->
+                <option>GGDGBD</option> <!--G2 G2 D3 G3 B3 D4-->
+                <option>GGDAGA</option> <!--G2 G2 D3 A3 G3 A3-->
+
+                <option>GGDAGA</option> <!--G2 G2 D3 A3 G3 A#3-->
+                <option>GABDEG</option> <!--G2 A2 B2 D3 E3 G3-->
+
+            </select>
+
+
+            <select id="buttonsAbove">
+                <option>Standard</option> <!--E2 A2 D3 G3 B3 e4-->
+                <option>AAAABD</option> <!--A2 A2 A3 A3 B3 D4-->
+                <option>AAEEF#A</option> <!--A2 A2 E3 E3 F#3 A3-->
+                <option>AAEEAA</option> <!--A2 A2 E3 E3 A3 A3-->
+                <option>ACCGG#C</option> <!--A2 C3 C3 G3 G#3 C4-->
+                <option>AF#EF#EB</option> <!--A2 F#2 E3 F#3 E3 B3-->
+                <option>BEGDBB</option> <!--B1 E2 G2 D3 B2 B2-->
+                <option>BF#BBBF#</option> <!--B1 F#2 B2 B2 B3 F#3-->
+                <option>BBEEAA</option> <!--B2 B2 E3 E3 A3 A3-->
+                <option>BBxxF#F#</option> <!--B2 B2 x x F#2 F#2-->
+                <option>CCGDGD</option> <!--C2 C2 G2 D3 G3 D4-->
+                <option>CDGADG</option> <!--C2 D2 G2 A3 D4 G4-->
+                <option>CGGDDD</option> <!--C2 G2 G2 D3 D3 D3-->
+                <option>CGCCCG</option> <!--C2 G2 C3 C3 C4 G3-->
+                
+                <option>CGDCGD</option> <!--C2 G2 D3 C3 G3 D4-->
+                <option>CGDGBB</option> <!--C2 G2 D3 G3 B3 B3-->
+                <option>CGDGCD</option> <!--C2 G2 D3 G3 C4 D4-->
+                <option>CGDACD</option> <!--C2 B2 D3 A3 C4 D4-->
+                <option>CCxxD#D#</option> <!--C3 C3 x x D#3 D#3-->
+                <option>CCD#GGD</option> <!--C3 C3 D#3 G3 G3 D4-->
+                <option>CCEBGD</option> <!--C3 C3 E3 B3 G3 D4-->
+                <option>DDAEAD</option> <!--D2 D2 A2 F#3 A3 D4-->
+                <option>BBEEAA</option> <!--B2 B2 E3 E3 A3 A3-->
+                <option>DDAF#AD</option> <!--D2 D2 A2 F#3 A3 D4-->
+                <option>DDDDEA</option> <!--D2 D2 D3 D3 E3 A3-->
+                <option>DDDDAA</option> <!--D2 D2 D3 D3 A3 A3-->
+                <option>DD#A#D#GG</option> <!--D2 D#2 A#2 D#3 G3 G3-->
+                <option>DD#A#D#GC</option> <!--D2 D#2 A#2 D#3 G3 C4-->
+
+                <option>DFCDFF</option> <!--D2 F2 C3 D3 F3 F3-->
+                <option>DGDDBB</option> <!--D2 G2 D3 D3 B2 B2-->
+                <option>DAADDA</option> <!--D2 A2 A3 D4 D3 A3-->
+                <option>DADF#AD</option> <!--D2 A2 D3 F#3 A3 D4-->
+                <option>DADGGB</option> <!--D2 A2 D3 G3 G3 B3-->
+                <option>DADGBD</option> <!--D2 A2 D3 G3 B3 D4-->
+                <option>DADABB</option> <!--D2 A2 D3 A3 B3 B3-->
+                <option>DADABD</option> <!--D2 A2 D3 A3 B3 D4-->
+                <option>DA#DFCA#</option> <!--D2 A#2 D3 F3 C4 A#3-->
+                <option>D#D#AAEE</option> <!--D#2 D#2 A2 A2 E3 E3-->
+                <option>D#D#A#D#GG</option> <!--D#2 D#2 A#2 D#3 G3 G3-->
+                <option>D#D#C#C#GG</option> <!--D#2 D#2 C#3 C#3 G3 G3-->
+                <option>D#A#DFA#C</option> <!--D#2 A#2 D3 F3 A#3 C4-->
+                <option>D#A#D#BC#F#</option> <!--D#2 A#2 D#3 B2 C#4 F#3-->
+
+                <option>EEBBEF#</option> <!--E2 E2 B2 B2 E3 F#3-->
+                <option>EEBBF#F#</option> <!--E2 E2 B2 B2 F#3 F#3-->
+                <option>EEBEBB</option> <!--E2 E2 B2 E3 B3 B3-->
+                <option>EEEEF#F#</option> <!--E2 E2 E3 E3 F#3 F#3-->
+                <option>EEEEG#G#</option> <!--E2 E2 E3 E3 G#3 G#3-->
+                <option>EEBEG#B</option> <!--E2 E2 B2 E3 B3 B3-->
+                <option>EEBEBE</option> <!--E2 E2 B2 E3 B3 E4-->
+                <option>EEBF#BE</option> <!--E2 E2 B2 F#3 B3 E4-->
+                <option>EF#C#F#A#C#</option> <!--E2 F#2 C#3 F#3 A#3 C#4-->
+                <option>EGDDGG</option> <!--E2 G2 D3 D3 G3 G3-->
+                <option>EGDGED</option> <!--E2 G2 D# G3 E3 D4-->
+                <option>EG#EG#EG#</option> <!--E2 G#2 E3 G#3 E3 G#3-->
+                <option>EADECD</option> <!--E2 A2 D3 E3 C4 D4-->
+                
+                <option>EBDGBE</option> <!--E2 B2 D3 G3 B3 e4-->
+                <option>EBEEAA</option> <!--E2 B2 E3 E3 A3 A3-->
+                <option>EBEEAB</option> <!--E2 B2 E3 E3 A3 B3-->
+                <option>EBEGGB</option> <!--E2 B2 G3 G3 G3 B3-->
+                <option>FGCFAF#</option> <!--F1 G1 C3 F3 A3 F#3-->
+                <option>FFCCAA</option> <!--F2 F2 C3 C3 A3 A3-->
+                <option>FFCFFG#</option> <!--F2 F2 C3 F3 F3 G#3-->
+                <option>FFCGCC</option> <!--F2 F2 C3 G2 C4 C4-->
+                <option>FFD#FA#C</option> <!--F2 F2 D#3 F3 A#3 C4-->
+                <option>F#F#F#F#EB</option> <!--F#2 F#2 F#3 F#3 E3 B3-->
+                <option>F#F#GGAA</option> <!--F#2 F#2 G3 G3 A3 A3-->
+                <option>F#F#AAEE</option> <!--F#2 F#2 A2 A2 E3 E3-->
+                <option>F#F#C#F#A#C#</option> <!--F#2 F#2 C#3 F#3 A#3 C#4-->
+                <option>F#F#C#C#C#C#</option> <!--F#2 F#2 C#3 C#3 C#4 C#4-->
+
+                <option>F#AAF#F#F#</option> <!--F#2 A2 A2 F#3 F#3 F#3-->
+                <option>GGBDGA</option> <!--G2 G2 B2 D3 G3 A3-->
+                <option>GGCCA#A#</option> <!--G2 G2 C3 C3 A#3 A#3-->
+                <option>GGCGCC</option> <!--G2 G2 C3 G3 C4 C4-->
+                <option>GGCGCD</option> <!--G2 G2 C3 G3 C4 D4-->
+                <option>GGC#DGG</option> <!--G2 G2 C#3 D3 G3 G3-->
+                <option>GGDDD#D#</option> <!--G2 G2 D3 D3 D#3 D#3-->
+                <option>GGDDFF</option> <!--G2 G2 D3 D3 F3 F3-->
+                <option>GGDDGG</option> <!--G2 G2 D3 D3 G3 G3-->
+                <option>GGDEGB</option> <!--G2 G2 D3 E3 G3 B3-->
+                <option>GGDFFG</option> <!--G2 G2 D3 F3 F3 G3-->
+                <option>GGDGGA</option> <!--G2 G2 D3 G3 G3 A3-->
+                <option>GGDGBD</option> <!--G2 G2 D3 G3 B3 D4-->
+                <option>GGDAGA</option> <!--G2 G2 D3 A3 G3 A3-->
+
+                <option>GGDAGA</option> <!--G2 G2 D3 A3 G3 A#3-->
+                <option>GABDEG</option> <!--G2 A2 B2 D3 E3 G3-->
+
+            </select>

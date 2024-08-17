@@ -1,0 +1,124 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #555;
+    padding: 20px;
+    gap: 20px;
+    font-family: arial;
+}
+
+.baf {
+    display: flex;
+    gap: 50px;
+    align-items: end;
+}
+
+.buttons {
+    display: flex;
+    height: 86%;
+    gap: 5px;
+}
+
+.singleDown,
+.singleUp {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.singleDown>div,
+.singleUp>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 3px;
+    aspect-ratio: 1/1;
+    height: 35px;
+    cursor: pointer
+}
+
+.allDown,
+.allUp {
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 3px;
+    width: 35px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.notes {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex: 1;
+}
+
+.notes>div {
+    box-sizing: border-box;
+    background-color: #888;
+    border: solid 2px white;
+    border-radius: 3px;
+    flex: 1;
+    aspect-ratio: 20/1;
+    /* eg 20/1 = 2/1 */
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+
+.fretboard {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.index {
+    display: flex;
+    gap: 5px;
+}
+
+.index>div {
+    width: 35px;
+    aspect-ratio: 1/1;
+    text-align: center;
+    line-height: 35px;
+    color: white;
+    cursor: auto;
+}
+
+.string {
+    display: flex;
+    gap: 5px;
+}
+
+.string>div {
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 35px;
+    color: white;
+    font-size: 12px;
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 3px;
+    aspect-ratio: 1/1;
+}
+
+#fretUp>div {
+    cursor: pointer;
+}
+
+
+.singleUp>div,
+.singleDown>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

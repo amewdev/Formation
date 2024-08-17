@@ -1,0 +1,2 @@
+Es una lista de porhaceres. Se puede filtrar por proyecto (eso costó de implementar). Un porhacer debe tener nombre, descripción y proyecto al que pertenece no es necesario. Es una web simple (lo que no significa 'fácil de hacer'), ya notarán todos sus detalles.
+Esta estética también la usé en Coderhouse->Backend1->tif; me gusta mucho.

@@ -1,0 +1,5 @@
+Guía para ver el proyecto
+
+1) Abrir una terminal en la dirección de este archivo
+2) Ingresar "npm install" (sin las comillas)
+3) Ingresar "npm run dev" (sin las comillas)
